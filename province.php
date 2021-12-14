@@ -5,5 +5,6 @@
   
   foreach($data as $key=>$val){
     echo $val->province."<br>";
+  }
   
 ?>
