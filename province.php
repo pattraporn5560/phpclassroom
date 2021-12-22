@@ -41,7 +41,7 @@ foreach($data as $key=>$val){
   echo "<td style= 'background-color:#FFE4E1'>";
   echo $val->new_death;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFFFFF'>";
   echo $val->total_death;
   echo "</td>";
   echo "</tr>";
