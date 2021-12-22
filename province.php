@@ -20,25 +20,25 @@ echo "<tr><td style= 'background-color:#B0E0E6'>ลำดับ</td>
   
 foreach($data as $key=>$val){
   echo "<tr>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFE4E1'>";
   echo ($key+1);
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFFFFF'>";
   echo $val->province;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFE4E1'>";
   echo $val->new_case;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFFFFF'>";
   echo $val->total_case;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFE4E1'>";
   echo $val->new_case_excludeabroad;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFFFFF'>";
   echo $val->total_case_excludeabroad;
   echo "</td>";
-  echo "<td style= 'background-color:...'>";
+  echo "<td style= 'background-color:#FFE4E1'>";
   echo $val->new_death;
   echo "</td>";
   echo "<td style= 'background-color:...'>";
