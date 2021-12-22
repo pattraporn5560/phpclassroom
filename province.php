@@ -46,11 +46,11 @@ foreach($data as $key=>$val){
   echo "</td>";
   echo "</tr>";
 }
-
+echo "</table></center>";
 
 echo "<br><br>";
 echo "<center>วันที่อัพเดต</center>";
 echo "<center>$val->txn_date</center>";
-echo "</table></center>";
+
 
 ?>
