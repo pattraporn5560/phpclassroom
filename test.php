@@ -6,16 +6,16 @@
     echo "<center><b>รายงานสถานการณ์โควิด-19 แยกจังหวัด</b></center>";
     echo "<br><br>";
 
-echo '<body style="background-color:...">';
+echo '<body style="background-color:#40E0D0">';
 echo "<center><table border='1'>";
-echo "<tr><td style= 'background-color:...'>ลำดับ</td>
-      <td style= 'background-color:...'>จังหวัด</td>
-      <td style= 'background-color:...'>จำนวนผู้ป่วยใหม่</td>
-      <td style= 'background-color:...'>จำนวนผู้ป่วยสะสม</td>
-      <td style= 'background-color:...'>จำนวนผู้ป่วยใหม่(รวมต่างประเทศ)</td>
-      <td style= 'background-color:...'>จำนวนผู้ป่วยสะสม(รวมต่างประเทศ)</td>
-      <td style= 'background-color:...'>จำนวนผู้เสียชีวิต</td>
-      <td style= 'background-color:...'>จำนวนผู้เสียชีวิตสะสม</td>
+echo "<tr><td style= 'background-color:#B0E0E6'>ลำดับ</td>
+      <td style= 'background-color:#4682B4'>จังหวัด</td>
+      <td style= 'background-color:#B0E0E6'>จำนวนผู้ป่วยใหม่</td>
+      <td style= 'background-color:#4682B4'>จำนวนผู้ป่วยสะสม</td>
+      <td style= 'background-color:#B0E0E6'>จำนวนผู้ป่วยใหม่(รวมต่างประเทศ)</td>
+      <td style= 'background-color:#4682B4'>จำนวนผู้ป่วยสะสม(รวมต่างประเทศ)</td>
+      <td style= 'background-color:#B0E0E6'>จำนวนผู้เสียชีวิต</td>
+      <td style= 'background-color:#4682B4'>จำนวนผู้เสียชีวิตสะสม</td>
       </tr>";
   
 foreach($data as $key=>$val){
