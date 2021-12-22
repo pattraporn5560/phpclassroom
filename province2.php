@@ -4,7 +4,7 @@ $json = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-
 
   echo "<center><b>รายงานสถานการโควิด-19 แยกจังหวัด</b></center>";
   echo "<table border='1px'>";
-  echo "<tr align='center'><td bgcolor='#FFE4E1'><b>ลำดับ</b></td><td bgcolor='#FFDEAD'><b>จังหวัด</b></td><td bgcolor='#FFE4E1'><b>ยอดผู้ป่วยใหม่</b></td><td bgcolor='#FFDEAD'><b>ยอดผู้ป่วยรวม</b></td><td bgcolor='#FF66CC'><b>ยอดผู้ป่วยใหม่ภายในประเทศ</b></td><td bgcolor='#CCCCFF'><b>ยอดผู้ป่วยรวมในประเทศ</b></td>
+  echo "<tr align='center'><td bgcolor='#FFE4E1'><b>ลำดับ</b></td><td bgcolor='#FFDEAD'><b>จังหวัด</b></td><td bgcolor='#FFE4E1'><b>ยอดผู้ป่วยใหม่</b></td><td bgcolor='#FFDEAD'><b>ยอดผู้ป่วยรวม</b></td><td bgcolor='#FFE4E1'><b>ยอดผู้ป่วยใหม่ภายในประเทศ</b></td><td bgcolor='#FFDEAD'><b>ยอดผู้ป่วยรวมในประเทศ</b></td>
   <td bgcolor='#FFE4E1'><b>ยอดผู้เสียชีวิตใหม่</b></td><td bgcolor='#FFDEAD'><b>ยอดผู้เสียชีวิตรวม</b></td><td bgcolor='#FFE4E1'><b>วันที่</b></td></tr>";
   foreach($data as $key=>$val){
     echo "<tr align='center'>";
