@@ -6,7 +6,7 @@
     echo "<center><b>รายงานสถานการณ์โควิด-19 แยกจังหวัด</b></center>";
     echo "<br><br>";
 
-echo '<body style="background-color:40E0D0">';
+
 echo "<center><table border='1'>";
 echo "<tr><td style= 'background-color:B0E0E6'>ลำดับ</td>
       <td style= 'background-color:4682B4'>จังหวัด</td>
@@ -46,10 +46,11 @@ foreach($data as $key=>$val){
   echo "</td>";
   echo "</tr>";
 }
-echo "</table></center>";
+
 
 echo "<br><br>";
 echo "<center>วันที่อัพเดต</center>";
 echo "<center>$val->txn_date</center>";
+echo "</table></center>";
 
 ?>
