@@ -1,3 +1,4 @@
+Kaniknan Wohanklong
 <!doctype html>
 <html lang="en">
   <head>
@@ -36,6 +37,32 @@
           Column
         </div>
       </div>
+      
+      <div class="row">
+        <div id="col1" class="col-2">
+          Column
+        </div>
+        <div id="col2"  class="col-2">
+          Column
+        </div>
+        <div id="col3"  class="col-2">
+          Column
+        </div>
+        <div id="col1" class="col-2">
+          Column
+        </div>
+        <div id="col2"  class="col-2">
+          Column
+        </div>
+        <div id="col3"  class="col-2">
+          Column
+        </div>
+        <div id="col3"  class="col-2">
+          Column
+        </div>
+      </div>
+      
+      
     </div>
   </body>
 </html>
