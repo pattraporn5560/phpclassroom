@@ -14,13 +14,13 @@
     
      <div class="container">
       <div class="row">
-        <div class="col">
+        <div class="col-10">
          Column
         </div>
-        <div class="col">
+        <div class="col-1">
           Column
         </div>
-        <div class="col">
+        <div class="col-1">
           Column
         </div>
       </div>
