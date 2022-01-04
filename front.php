@@ -1,4 +1,3 @@
-Kaniknan Wohanklong
 <!doctype html>
 <html lang="en">
   <head>
