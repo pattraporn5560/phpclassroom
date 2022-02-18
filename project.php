@@ -51,13 +51,13 @@
       <div class="card mb-3" style="max-width: 540px;">
         <div class="row g-0">
           <div class="col-md-4">
-            <img src="/E12E0125-A083-46C7-B5F2-9462ECFD91E6.jpeg" class="img-fluid rounded-start" alt="...">
+            <img src=profile.jpg" class="img-fluid rounded-start" alt="...">
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">จัดทำโดย</h5>
               <p class="card-text">นางสาวภัทราภรณ์ เกียรติณรงค์ </p>
-              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 15 , 55803</small></p>
+              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 15 , 55460</small></p>
             </div>
           </div>
         </div>
