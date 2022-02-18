@@ -56,8 +56,8 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">จัดทำโดย</h5>
-              <p class="card-text">นางสาวปวริศา สีตะระโส </p>
-              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 20 , 55803</small></p>
+              <p class="card-text">นางสาวภัทราภรณ์ เกียรติณรงค์ </p>
+              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 15 , 55803</small></p>
             </div>
           </div>
         </div>
